@@ -1,4 +1,4 @@
-![jed](https://media.discordapp.net/attachments/798204858930036766/804757991957725194/pytweetch.png?width=1000&height=200)
+![jed](https://media.discordapp.net/attachments/798204858930036766/804760261927764028/Wisp_Thumbnail_Pack.png?width=1000&height=200)
 [![python3](https://img.shields.io/badge/PYTHON-3.8.2-blueviolet?style=for-the-badge)](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.8.9.html)
 
 
