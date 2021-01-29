@@ -1,5 +1,5 @@
 ![jed](https://media.discordapp.net/attachments/798204858930036766/804757991957725194/pytweetch.png?width=1000&height=200)
-#[![python3](https://img.shields.io/badge/PYTHON-3.8.2-blueviolet?style=for-the-badge)](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.8.9.html)
+[![python3](https://img.shields.io/badge/PYTHON-3.8.2-blueviolet?style=for-the-badge)](http://files.minecraftforge.net/maven/net/minecraftforge/forge/index_1.8.9.html)
 
 
 
@@ -13,6 +13,6 @@
 - [ ] Make a complete video tutorial on it
 - [ ] Finish the Documentation
 
-## \ Made with ❤️ by
+## Made with ❤️ by
 * [portalthree](https://github.com/portalthree) - "litteraly the third portal game" 
 * https://twitch.tv/portalthreee
