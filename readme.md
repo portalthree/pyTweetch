@@ -6,7 +6,8 @@
 >Reminder: you can always ask me questions by DM-ing me on Discord.
 >portalthree#9471
 
-
+#### WHAT İS İT
+it is a library that notify about live streams
 #### TO-DO 📝
 - [ ] Finish the README
 - [ ] Add the possibility to notify with youtube streamers
