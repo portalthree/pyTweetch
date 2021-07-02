@@ -93,8 +93,15 @@ def checkUser(user):
     except Exception as e:
         print("Error checking user: ", e)
         return False
+    
 while True:
-    for twitch_name in content_json["twitch_name"]:
-        print(checkUser(twitch_name))
+    try:
+        for twitch_name in content_json["twitch_name"]:
+            print(checkUser(twitch_name))
+    except Exception as e:
+        print("Error checking user: ", e)
+        print("Waiting 60s and restarting the bot.")
+        sleep(60)
+    
     print("Finsished a checkUser cycle, will wait 3 seconds until a new cycle will start.\n")
     sleep(3)
