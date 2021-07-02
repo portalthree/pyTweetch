@@ -1,10 +1,7 @@
 import tweepy
 import requests
 from twitchAPI import Twitch
-try:
-  import ujson as json
-except ModuleNotFoundError:
-  import json
+import ujson as json
 from time import sleep
 import datetime as dt
 import pymongo
